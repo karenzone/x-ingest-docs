@@ -2,6 +2,9 @@ include::{docs-root}/shared/versions/stack/{source_branch}.asciidoc[]
 include::{docs-root}/shared/attributes.asciidoc[]
 
 [[ingest-architectures]]
-= {es} Ingest Architectures
+= Elastic Ingest Architectures
+
+More to come.  
+Check back soon!
 
 include::intro.asciidoc[]
